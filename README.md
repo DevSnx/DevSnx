@@ -1,7 +1,7 @@
 <br />
 <p align="center">
 
-  <h3 align="center">MrManHD / Niklas</h3>
+  <h3 align="center">DevSnx / Marvin</h3>
 
   <p align="center">
     Developer × Gründer von Turadox.eu
@@ -25,10 +25,5 @@
 <br />
 <br />
 
- [![Discord][discord-shield]][discord-url]
- [![Teamspeak][teamspeak-shield]][teamspeak-url]
- [![spotify][spotify-shield]][spotify-url]
- 
- 
 [discord-shield]: https://img.shields.io/badge/-Discord-black.svg?style=for-the-badge&logo=discord&colorB=555
 [discord-url]: https://discord.turadox.eu
