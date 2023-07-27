@@ -11,6 +11,8 @@
     <a href="https://discord.com/channels/@me/814861093695651878">Discord</a>
     ·
     <a href="https://github.com/DevSnx?tab=repositories">Repositories</a>
+    .
+    <a href="https://www.spigotmc.org/members/devsnx.838891"> Spigot </a>
   </p>
 </p>
 
