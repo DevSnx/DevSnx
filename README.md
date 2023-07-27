@@ -6,7 +6,7 @@
   <p align="center">
     Developer × Gründer von Turadox.eu
     <br />
-    <a href="https://steamcommunity.com/profiles/76561198827490027">Steam</a>
+    <a href="https://steamcommunity.com/profiles/76561199520509159">Steam</a>
     ·
     <a href="https://discord.com/channels/@me/814861093695651878">Discord</a>
     ·
