@@ -1,16 +1,34 @@
-### Hi there 👋
+<br />
+<p align="center">
 
-<!--
-**DevSnx/DevSnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h3 align="center">MrManHD / Niklas</h3>
 
-Here are some ideas to get you started:
+  <p align="center">
+    Developer × Gründer von Turadox.eu
+    <br />
+    <a href="https://steamcommunity.com/profiles/76561198827490027">Steam</a>
+    ·
+    <a href="https://discord.com/channels/@me/814861093695651878">Discord</a>
+    ·
+    <a href="https://github.com/DevSnx?tab=repositories">Repositories</a>
+  </p>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+## Statistics
+
+![mrmanhd](https://github-readme-stats.vercel.app/api?username=DevSnx&show_icons=true&locale=en)
+
+<br />
+<br />
+<br />
+<br />
+
+ [![Discord][discord-shield]][discord-url]
+ [![Teamspeak][teamspeak-shield]][teamspeak-url]
+ [![spotify][spotify-shield]][spotify-url]
+ 
+ 
+[discord-shield]: https://img.shields.io/badge/-Discord-black.svg?style=for-the-badge&logo=discord&colorB=555
+[discord-url]: https://discord.turadox.eu
