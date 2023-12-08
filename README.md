@@ -1,14 +1,3 @@
-
-
-<br />
-
-![mrmanhd](https://github-readme-stats.vercel.app/api?username=DevSnx&show_icons=true&locale=en)
-
-<br />
-<br />
-<br />
-<br />
-
 [discord-shield]: https://img.shields.io/badge/-Discord-black.svg?style=for-the-badge&logo=discord&colorB=555
 [discord-url]: https://discord.turadox.eu
 
