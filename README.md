@@ -1,7 +1,3 @@
-[discord-shield]: https://img.shields.io/badge/-Discord-black.svg?style=for-the-badge&logo=discord&colorB=555
-[discord-url]: https://discord.turadox.eu
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DevSnx&style=flat-square" alt="DevSnx" /> </p>
 
 <p align="center">
